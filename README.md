@@ -15,6 +15,13 @@ O Preço em Foco está em fase de desenvolvimento, sendo assim, ficará somente 
 
 
 
+## Stack utilizada
+
+**Front-end:** React Native, Expo, SASS e React Native Testing Library
+
+**Back-end:** Node.js, Express e Jest
+
+
 ## FAQ
 
 #### O Preço em Foco ficará disponível ao público ?
@@ -30,6 +37,9 @@ Claro, será totalmente grátis, porém poderá ter alguns anúncios exibidos pa
 Claro, para remover os possíveis anúncios, basta entrar em contato com o desenvolvedor pelo email disponibilizado na área Contato.
 
 
+## Aprendizados
+
+Neste projeto é esperado melhorar o meu versionamento de código utilizando GIT, assim como minha experiencia com Node.JS e React Native, aprender a fazer testes unitários com Jest e React Native Testing Library e mais sobre a filosofia Clean Code.
 ## Autores
 
 - [@Flavio Ott](https://www.linkedin.com/in/flavio-ott-205888293/)
